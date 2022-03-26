@@ -2,6 +2,8 @@
 
 ## Description
 
+[Check the live site](https://boiling-bayou-45408.herokuapp.com/)
+
 This application is a MERN Stack that consist of the client and server side. It features a signup and login where user can make a post, comment, and add friend.
 
 ## TOOLS and TECHNOLOGIES
